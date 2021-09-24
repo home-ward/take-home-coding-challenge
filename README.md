@@ -10,7 +10,7 @@ display this information on our frontend.
 
 Create an API that returns real estate agent information for display on the frontend. We need to see the agent's contact
 information, brokerage name, and location (city, state). We will need the ability to return a specific real estate
-agent and a list of all agents.
+agent and a list of all agents. 
 
 ### Make sure to include:
 - Data models
@@ -31,11 +31,14 @@ agent and a list of all agents.
 - Send the link to your repository to josh@homeward.com.
 - We will schedule a time to review your work.
 
+### Current Application Model
+- Customer
+- Purchasing address
+- Application approved (boolean)
+- Agent name
+
 ### Current Customer Model
 - Name
 - Email
 - Phone number
 - Current address
-- Purchasing address
-- Application approved (boolean)
-- Agent name
