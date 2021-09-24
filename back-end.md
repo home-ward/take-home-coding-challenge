@@ -4,20 +4,31 @@ Please organize, design, test, document, and deploy your code as if it were goin
 
 <h2>Challenge Description</h2>
 
-Write an API that returns Real Estate Agent information for display on the frontend. We want to see contact information,
-the agent's brokerage name and location, and their list of clients.
+We currently have an API set up to return information about a customer's application. It includes the name of
+the real estate agent who represents the customer. We want to hold more information about the real estate agent and
+display this information on our frontend.
+
+Write an API that returns real estate agent information for display on the frontend. We need to see the agent's contact
+information, brokerage name, and location (city, state).
 
 <h3>Make sure to include:</h3>
-- Data models
-- Endpoints
-- Any utility functions needed
+- Data models (put in models.py)
+- Endpoints (put in urls.py)
+- Any utility functions needed (put in utils.py)
+- Any additional files/functions/objects you may need
 
 <h3>Requirements</h3>
-- Code in the language you are most comfortable with
-- Use object oriented programming design
-- Simple REST API
-- Write unit tests
-- Link to your Github/Bitbucket repository
-- Code that is well-structured
-- Includes error handling
-- README file that describes your approach to the problem
+- We set up a Django project, but please code in the language you are most comfortable with. You do not need to know
+  python to complete this project.
+- Do not spend more than 2 hours on this project. It does not need to be complete before we review your work.
+- Use object oriented programming design.
+- Write a simple REST API. ?????
+- Include error handling and unit tests when applicable.
+- Include a README file that describes your approach to the problem.
+- Link to your Github/Bitbucket repository.
+- Make sure your code is well-structured.
+
+<h3>How to Submit</h3>
+- Upload your repository on Github/Bitbucket.
+- Send the link to your repository to josh@homeward.com.
+- We will schedule a time to review your work.
