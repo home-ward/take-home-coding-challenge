@@ -13,7 +13,7 @@ information, brokerage name, and location (city, state). We will need the abilit
 agent and a list of all agents. 
 
 ### Make sure to include:
-- Data models
+- Data models (You can add more data models and add to the current models available)
 - Endpoints
 - Any utility functions needed
 
@@ -33,7 +33,7 @@ agent and a list of all agents.
 
 ### Current Application Model
 - Customer
-- Purchasing address
+- Purchasing address (text field)
 - Application approved (boolean)
 - Agent name
 
@@ -41,4 +41,4 @@ agent and a list of all agents.
 - Name
 - Email
 - Phone number
-- Current address
+- Current address (text field)
