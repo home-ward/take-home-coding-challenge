@@ -20,6 +20,7 @@ information, brokerage name, and location (city, state).
 <h3>Requirements</h3>
 - We set up a Django project, but please code in the language you are most comfortable with. You do not need to know
   python to complete this project.
+- You are not required to use the supplied files. Create in a way that works for you.
 - Do not spend more than 2 hours on this project. It does not need to be complete before we review your work.
 - Use object oriented programming design.
 - Write a simple REST API.
