@@ -10,7 +10,8 @@ display this information on our frontend.
 
 Create an API that returns real estate agent information for display on the frontend. We need to see the agent's contact
 information, brokerage name, and location (city, state). We will need the ability to return a specific real estate
-agent and a list of all agents. 
+agent that is already connected to a customer. We will also need to be able to return a list of agents based on a
+specific location.
 
 ### Make sure to include:
 - Data models (You can add more data models and add to the current models available)
@@ -23,7 +24,7 @@ agent and a list of all agents.
 - Use object oriented programming design. 
 - Write a simple REST API.
 - Include error handling and unit tests when applicable.
-- Make sure your code is well-structured.
+- Make sure your code is well-structured. Organize the code in a way you are most familiar with.
 
 ### How to Submit
 - Upload your repository on Github/Bitbucket.
