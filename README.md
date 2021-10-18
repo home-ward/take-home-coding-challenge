@@ -29,7 +29,7 @@ Create an API that returns real estate agent information for display on the fron
 
 ### How to Submit
 - Upload your repository on Github/Bitbucket.
-- Send the link to your repository to josh@homeward.com.
+- Send the link to your repository to joshua.wellins@homeward.com.
 - We will schedule a time to review your work.
 
 ### Current Application Model
@@ -44,4 +44,4 @@ Create an API that returns real estate agent information for display on the fron
 - Phone number
 - Current address (text field)
 
-# Questions? Email josh@homeward.com
+# Questions? Email joshua.wellins@homeward.com
