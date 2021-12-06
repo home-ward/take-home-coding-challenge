@@ -31,7 +31,7 @@ Create an API that returns real estate agent information for display on the fron
 ### How to Submit
 - Upload your repository on Github/Bitbucket.
 - Send the link to your repository to joshua.wellins@homeward.com.
-- We will schedule a time to review your work.
+- We will schedule a time to review your work. We meet with all candidates who make a submission.
 
 ### Current Application Model
 - Customer
