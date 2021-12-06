@@ -1,6 +1,8 @@
 ## Backend Take Home Coding Challenge
 
-Please organize, design, test, document, and deploy your code as if it were going into production.
+Please organize, design, test, and document your code as if it were going into production. If you create design
+documentation, we would love to see it. If you have ideas about how this project could best be deployed, bring
+those thoughts with you.
 
 ### Challenge Description
 
@@ -21,16 +23,15 @@ Create an API that returns real estate agent information for display on the fron
 
 ### Constraints
 - Please code in the language you are most comfortable with. You do not need to know python to complete this project.
-- Do not spend more than 2 hours on this project. It does not need to be complete before we review your work. 
-- Use object oriented programming design. 
+- Do not spend more than 2 hours on this project. It does not need to be complete before we review your work.
 - Write a simple REST API.
 - Include error handling and unit tests when applicable.
 - Make sure your code is well-structured. Organize the code in a way you are most familiar with.
 
 ### How to Submit
 - Upload your repository on Github/Bitbucket.
-- Send the link to your repository to josh@homeward.com.
-- We will schedule a time to review your work.
+- Send the link to your repository to joshua.wellins@homeward.com.
+- We will schedule a time to review your work. We meet with all candidates who make a submission.
 
 ### Current Application Model
 - Customer
@@ -44,4 +45,4 @@ Create an API that returns real estate agent information for display on the fron
 - Phone number
 - Current address (text field)
 
-# Questions? Email josh@homeward.com
+# Questions? Email joshua.wellins@homeward.com
