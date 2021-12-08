@@ -17,13 +17,13 @@ Create an API that returns real estate agent information for display on the fron
 1. We need to be able to return a list of agents based on a specific location.
 
 ### Make sure to include:
-- Data models (You can add more data models and add to the current models available)
+- Data models (You can add data models, add to the current models available, update any of the existing models)
 - Endpoints
 - Any utility functions needed
 
 ### Constraints
 - Please code in the language you are most comfortable with. You do not need to know python to complete this project.
-- Do not spend more than 2 hours on this project. It does not need to be complete before we review your work.
+- Do not spend more than 2 hours on this project. *It does not need to be complete before we review your work.*
 - Write a simple REST API.
 - Include error handling and unit tests when applicable.
 - Make sure your code is well-structured. Organize the code in a way you are most familiar with.
