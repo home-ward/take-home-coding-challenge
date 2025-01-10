@@ -10,10 +10,8 @@ We currently have data saved for customers applying to use Homeward services. We
 related customer and agent information. We would like to create an API that allows us to interact with the agent data.
 
 ### Requirements
-Create an agent API that allows for GET, POST, and PATCH requests. 
-- For a GET request, we would like to see the agent's name, contact information, and location (city, state). 
-- For a new GET request, we would like to return a specific real estate agent that is already connected to a specific customer. 
-- For a new GET request, we would like to be able to return a list of agents based on a specific location.
+Create an agent API that allows for GET, POST, and PATCH requests.
+- For a GET request, we would like to return a specific real estate agent that is already connected to a specific customer.
 - For a POST request, we would like to add a new agent to the database.
 - For a PATCH request, we would like to update an agent's information.
 
